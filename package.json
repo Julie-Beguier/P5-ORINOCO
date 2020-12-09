@@ -1,6 +1,19 @@
 {
   "name": "P5-ORINOCO",
   "version": "0.1.0",
+  "description": "Orinoco HTML - CSS",
+  "keywords": [
+    "pure css",
+    "flexbox",
+    "css variables"
+  ],
+  "license": "MIT",
+  "repository": "github.com/Julie-Beguier/P5-ORINOCO",
+  "author": {
+    "name": "Julie Beguier",
+    "email": "juliebeguier@gmail.com",
+    "url": "https://www.co-cotesenpapier.fr/"
+  },
   "dependencies": {
     
   }
